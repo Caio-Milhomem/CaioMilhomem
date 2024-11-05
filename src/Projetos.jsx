@@ -82,7 +82,7 @@ function Projetos() {
                                             <img className="img-fluid" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Socket.io" src="img/socketIO-logo.png" alt="Socket.ioLogo" style={{ width: "45px", objectFit: "contain" }} />
                                         </div>
                                     </div>
-                                    <a className="btn btn-dark justify-content-center d-flex mt-2" href="https://github.com/Caio-Milhomem/CaioMilhomem" target="_blank" role="button">GitHub</a>
+                                    <a className="btn btn-dark justify-content-center d-flex mt-2" href="https://github.com/Caio-Milhomem/PERN-Chat" target="_blank" role="button">GitHub</a>
                                 </div>
                             </div>
                         </div>
