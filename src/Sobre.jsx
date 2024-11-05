@@ -19,7 +19,7 @@ function Sobre() {
                         <p className="mx-3" style={{ letterSpacing: "0.03em" }}>
                             Obrigado por visitar meu site. Espero que você encontre aqui algo que desperte seu interesse e que
                             possamos explorar juntos as possibilidades infinitas que a tecnologia oferece.</p>
-                        <a href="img/Currículo.pdf" download="Caio Milhomem CV">
+                        <a href="public/img/Currículo.pdf" download="Caio Milhomem CV">
                             <button type="button" className="btn btn-light mx-3 fw-bolder btn-baixar">Baixar CV</button>
                         </a>
                     </div>
